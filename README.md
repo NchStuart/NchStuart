@@ -9,4 +9,4 @@ Onde você pode me encontrar?
 
 ## Contato
 
-Para contato, mande um email para stuartwmv@gmail.com
+Email: stuartwmv@gmail.com
