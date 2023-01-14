@@ -1,6 +1,6 @@
 ## "Olá pessoal!" 😁
 
-Meu nome é Nicholas Stuart, sou brasileiro. Estudo programação deis de Janeiro de 2022 e atualmente com foco no Front-end. Estou no 2º semestre da faculdade de engenharia de software com previsão para término em 2025.
+Meu nome é Nicholas Stuart, sou brasileiro. Estudo programação desde Janeiro de 2022 e atualmente com foco no Front-end. Estou no 2º semestre da faculdade de engenharia de software com previsão para término em 2025.
 
 Onde você pode me encontrar?
 
