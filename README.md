@@ -1,6 +1,12 @@
-## "Olá pessoal!" 😁
+Hi , i'm o Nicholas Stuart 👋 !!!!!
 
-Meu nome é Nicholas Stuart, sou brasileiro. Estudo programação desde Janeiro de 2022 e atualmente com foco no Front-end. Estou no 2º semestre da faculdade de engenharia de software com previsão para término em 2025.
+🔭 I am currently working as an intern
+
+🌱 I'm currently learning CSS, SASS, JavaScript, Vue.js, Node.js, MySQL, MongoDB, React and Typescript .
+
+💬 Ask me about ...
+
+📫 How to reach me: Brasília/DF Brazil.
 
 Onde você pode me encontrar?
 
